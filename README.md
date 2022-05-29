@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aledc7" alt="aledc7" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ing_aledc" target="blank"><img src="https://img.shields.io/twitter/follow/ing_aledc?logo=twitter&style=for-the-badge" alt="ing_aledc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aledcok" target="blank"><img src="https://img.shields.io/twitter/follow/aledcok?logo=twitter&style=for-the-badge" alt="aledcok" /></a> </p>
 
 - 🔭 I’m currently working on [Smart Contracts](https://github.com/aledc7/smartContractCrowdFunding)
 
