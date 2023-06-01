@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aledc7</h1>
-<h3 align="center">A passionate Full Stack Systems Engineer from Rosario, Agentina</h3>
+<h1 align="center">Hello 👋, I'm Ale DC</h1>
+<h3 align="center">A passionate Systems Engineer from Rosario, Agentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aledc7&label=Profile%20views&color=0e75b6&style=flat" alt="aledc7" /> </p>
 
