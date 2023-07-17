@@ -1,6 +1,13 @@
-<h1 align="center">Hello 👋, I'm Ale DC</h1>
-<h3 align="center">A passionate Systems Engineer from Rosario, Agentina</h3>
 
+<h1>Entrepreneur and investor. Research and Development Engineer specialized in  
+IPFS, Web3 business models, Solidity, and blockchain. Leading innovations focused on  
+security technology and blockchain. Also, serves as a mentor in the  
+Blockchain master's program at UCAM University. </h1> 
+
+_________________________________   
+here start my old profile, out of date... but nice haha 
+
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aledc7&label=Profile%20views&color=0e75b6&style=flat" alt="aledc7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aledc7" alt="aledc7" /></a> </p>
