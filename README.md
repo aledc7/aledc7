@@ -1,8 +1,5 @@
 
-<h3>Entrepreneur and investor. Research and Development Engineer specialized in  
-IPFS, Web3 business models, Solidity, and blockchain. Leading innovations focused on  
-security technology and blockchain. Also, serves as a mentor in the  
-Blockchain master's program at UCAM University. </h3> 
+
 
 _________________________________   
 here start my old profile, out of date... but nice haha 
